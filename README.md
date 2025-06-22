@@ -1,5 +1,6 @@
 # Dhwaniyog🪷
-Our hack made it to #1 in our problem statement and cracked the top 35 out of 450+ teams at Smart BU Hackathon 2024.
+Our hack made it to #1 in our problem statement and cracked the top 35 out of 450+ teams at Smart BU Hackathon 2024.<br>
+Check here: https://dhwaniyog.vercel.app/
 
 
 ## 📌 Project Overview
